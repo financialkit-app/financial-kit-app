@@ -4,12 +4,12 @@ India’s Family Financial Manager – Manage documents, investments &amp; remin
 
 Financial Kit is a mobile app designed for Indian families to manage all financial documents, investments, and reminders in one place.
 
-🇮🇳 Problem
+## 🇮🇳 Problem
 
 In most Indian families, important documents like LIC policies, insurance, FD receipts, and vehicle papers are scattered.
 People forget premium dates, document expiry, and maturity dates.
 
-💡 Solution
+## 💡 Solution
 
 Financial Kit provides a single platform to:
 
